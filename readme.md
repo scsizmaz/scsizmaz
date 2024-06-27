@@ -6,7 +6,7 @@
 ## Hi, I'm Dr. Sandor Csizmazia 👋
 ### I'm a data scientist and BI consultant from 🇭🇺 Hungary
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently working on
 
 I took part in an in-house competition of the [Data36.com](https://Data36).com and the [dataklub.hu](https://dataklub.hu) Data Science Club. I was rewarded with a Special Prize using basicly maschine learning tools. See my projects 😄.
 I'm working on time series forecasting concerning this project.
@@ -24,7 +24,7 @@ I'm working on time series forecasting concerning this project.
 
 ## 👨‍💻 About Me
 
-My goal to create useful, practical applications for the daily life. I imagine data science must be accessable for everybody to support their everyday tasks and decisions.
+My goal is to create useful, practical applications for the daily life. I imagine data science must be accessable for everybody to support their everyday tasks and decisions.
 
 - 📐 I work as a BI consultant at Deutsche Telekom. My favourite thing is finding ways to use data science applications in BI.
 - 📌 I have got my PhD degree from applied algebraic logic. My theseses were on the generalized database theories.
@@ -39,7 +39,8 @@ My goal to create useful, practical applications for the daily life. I imagine d
 
 ### Favorite Projects
 
-- *(Still in progress)* [Analysis on Flyball competition's ](https://github.com/scsizmaz/flyball) - Data analysis with data science tools to support better future decisions
+- *(Still in progress)* [Analysis on Flyball competition's ](https://github.com/scsizmaz/flyball) 
+- Data analysis with data science tools to support the better future decisions of the Flyball participants
 
 
 &nbsp;
