@@ -8,7 +8,7 @@
 
 ## 🔭 I’m currently working on
 
-I took part in an in-house competition of the [Data36.com](https://Data36).com and the [dataklub.hu](https://dataklub.hu) Data Science Club. I was rewarded with a Special Prize using basicly maschine learning tools. See my projects 😄.
+I took part in an in-house competition of the [Data36.com](https://Data36).com and the [dataklub.hu](https://dataklub.hu) Data Science Club. I was rewarded with a Special Prize using maschine learning tools. See my projects 😄.
 I'm working on time series forecasting concerning this project.
 
 
@@ -39,8 +39,7 @@ My goal is to create useful, practical applications for the daily life. I imagin
 
 ### Favorite Projects
 
-- *(Still in progress)* [Analysis on Flyball competition's ](https://github.com/scsizmaz/flyball) 
-- Data analysis with data science tools to support the better future decisions of the Flyball participants
+- *(Still in progress)* [Analysis on Flyball competition's ](https://github.com/scsizmaz/flyball) - Data analysis with data science tools to support the better future decisions of the Flyball participants
 
 
 &nbsp;
