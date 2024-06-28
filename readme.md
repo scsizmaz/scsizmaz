@@ -8,9 +8,9 @@
 
 ## 🔭 I’m currently working on
 
-I took part in an in-house competition of the [Data36.com](https://Data36).com and the [dataklub.hu](https://dataklub.hu) Data Science Club. I was awarded a Special Prize using maschine learning tools. Take a look at my projects 😄.
+I took part in an in-house competition of the [Data36.com](https://Data36).com and the [dataklub.hu](https://dataklub.hu) Data Science Club. I was awarded a Special Prize using maschine learning tools. 
 I'm working on time series forecasting concerning this project.
-
+- Take a look at my projects 😄.
 
 ##  🌱 I’m currently learning 
 
